@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Zak ElSeht Repo Page
 
-You can use the [editor on GitHub](https://github.com/elsehtz/elsehtz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome! If you are interested in checking out my work, please feel free to either: explore my [website](https://elsehtz.github.io/), check out my [public repos](https://elsehtz.github.io/), or glance at my (terribly generic) [resume](https://elsehtz.github.io/) 
 
 ### Markdown
 
