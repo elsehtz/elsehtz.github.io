@@ -2,34 +2,33 @@
 
 Welcome! If you are interested in checking out my work, please feel free to either: explore my [website](https://elsehtz.github.io/), check out my [public repos](https://elsehtz.github.io/), or glance at my (terribly generic) [resume](https://elsehtz.github.io/) 
 
-### Markdown
+--Last Updated: 6.5.2022
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Filler
 
-```markdown
-Syntax highlighted code block
+I've been meaning to update this Markdown page but there's simply so much more to explore. Nevertheless, perhaps we'll all see some commits over this summer
 
-# Header 1
-## Header 2
-### Header 3
+#### Some shortcuts you may want to jump to:
 
-- Bulleted
-- List
+- My Library
+- 2022 Goals
+- Made by me & Shaker
+- Bio
 
-1. Numbered
-2. List
+<!-- **Bold** and _Italic_ and `Code` text -->
 
-**Bold** and _Italic_ and `Code` text
+### About & Contact
 
-[Link](url) and ![Image](src)
+-- Sorry, I'll probably add a sentence or two at some point -- 
+
+email: elseht17@gmail.com
+LinkedIn: [LinkedIn](/) and ![Image]([src](https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80))
+Insta (cool stuff):[Instagram](/) and ![Image]([src](https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80))
+Insta (personal):[Instagram](/) and ![Image]([src](https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80))
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+<!-- ### Jekyll Themes -->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elsehtz/elsehtz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elsehtz/elsehtz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
