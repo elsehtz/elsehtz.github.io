@@ -23,7 +23,9 @@ I've been meaning to update this Markdown page but there's simply so much more t
 
 email: elseht17@gmail.com
 LinkedIn: [LinkedIn](/) and ![Image]([src](https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80))
+
 Insta (cool stuff):[Instagram](/) and ![Image]([src](https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80))
+
 Insta (personal):[Instagram](/) and ![Image]([src](https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80))
 ```
 
